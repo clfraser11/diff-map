@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>A Different Map</title>
+<!-- InstanceEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" --><!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable --><!-- InstanceEndEditable -->
+</head>
+<body>
+<table width="760" border="0">
+  <tr>
+    <td><p align="right"><img src="../images/logo.jpg" alt="logo" width="290" height="76" border="0" usemap="#Map" /></p></td>
+  </tr>
+  <tr>
+    <td id="navbar"><ul>
+      <li><a href="index.html">HOME</a> </li> 
+      <li><a href="legend.html">LEGEND</a> </li>
+      <li><a href="local.html">LOCAL</a> </li>
+      <li><a href="global.html">GLOBAL</a> </li>
+      <li><a href="frontier.html">FRONTIER</a> </li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td><!-- InstanceBeginEditable name="picturebar" -->
+      <p align="right"><img src="../images/legend-image.jpg" alt="legend art" width="760" height="143"/></p>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td class="home" id="breadcrumb"><!-- InstanceBeginEditable name="title" -->LOCAL<!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td id="content"><!-- InstanceBeginEditable name="body" -->
+      <table width="100%" border="0">
+        <tr>
+          <td width="88%" valign="top"><p><strong>FUNDING</strong></p>
+          <p>Green Chemistry Institute, American Chemical Society</p></td>
+          <td width="12%" valign="top"><div id="subnav">
+            <p>Classroom</p>
+            <p>Lab</p>
+            <p>Studio</p>
+            <p>Backyard</p>
+            <p>Body</p>
+          </div></td>
+        </tr>
+      </table>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td id="footer">
+    <ul>
+    <li><a href="mailto:differentmap@gmail.com">differentmap@gmail.com</a></li>
+    <li><a href="credits.html">credits</a></li>
+    <li>last modified: 5/16/10</li>
+    <li>copyright &copy; 2010</li>
+   </ul></td>
+  </tr>
+</table>
+
+<map name="Map" id="Map"><area shape="rect" coords="2,4,289,74" href="../index.html" alt="home" />
+</map></body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,36 @@
+@charset "UTF-8";
+#content h1 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	padding-left: 30px;
+}
+#content img {
+}
+#content ul {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	padding-left: 60px;
+}
+#content .style1 img {
+	margin-right: 200px;
+}
+div#content {
+	width: 400px;
+	float: left;
+}
+#wktree {
+	float: left;
+}
+#content #contact {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	padding-left: 60px;
+}
+a {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #000000;
+	background-color: #c0f6f7;
+}
+a:visited {
+	color: #CC0000;
+}

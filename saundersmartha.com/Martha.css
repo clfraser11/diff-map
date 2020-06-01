@@ -1,0 +1,22 @@
+@charset "UTF-8";
+#content h1 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	padding-left: 0px;
+}
+#content p {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+#content li {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: None;
+	list-style-type: none;
+	text-align: center;
+}
+#content a {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #006699;
+	padding-left: 0px;
+}
+#content {
+	background-color: #FFFFFF;
+}
